@@ -10,3 +10,5 @@ user_input = "2"
 
 def input_to_index(user_input)
 end
+
+converted_input = user_input.to_i
