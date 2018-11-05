@@ -7,5 +7,3 @@ def display_board(board)
 end
 
 user_input = "2".to_i -1
-
-
