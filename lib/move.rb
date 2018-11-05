@@ -9,5 +9,5 @@ end
 user_input = "2"
 
 def input_to_index(user_input)
-  puts converted_input = user_input.to_i
+  puts converted_input = "#{user_input}".to_i
 end
